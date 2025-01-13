@@ -67,7 +67,7 @@ The dataset contains information about hotel bookings, including:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/eda-hotel-bookings.git
+   git clone https://github.com/singhraj827/eda-hotel-bookings.gi
    ```
 2. Open the Jupyter Notebook:
    ```bash
